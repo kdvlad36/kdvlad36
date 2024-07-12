@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kdvlad36
-- 👀 I’m interested in TypeScript, NodeJS, SQL
-- 🌱 I am currently studying this
 - 📫 How to reach me 
 email: kd.vlad@icloud.com
 tel. +7 952 544 42 55
